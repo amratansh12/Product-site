@@ -37,7 +37,7 @@ const ProductsData = [
       price: 79.99,
       description: 'Track your fitness activities with this smart device',
       longDescription: 'Introducing our cutting-edge fitness tracker, a sleek and intelligent gadget designed to empower your wellness journey. This wearable marvel seamlessly integrates into your lifestyle, effortlessly monitoring key health metrics. Equipped with precision sensors, it accurately tracks your steps, heart rate, and sleep patterns, providing valuable insights into your overall well-being. The vibrant touchscreen display keeps you informed with real-time data, while its water-resistant design ensures durability during workouts and daily activities. Sync seamlessly with your smartphone to receive notifications and analyze comprehensive fitness trends. With a lightweight and stylish design, our fitness tracker is the perfect companion for achieving your health and fitness goals, motivating you to live a more active and balanced life.',
-      imageUrl: 'https://static.vecteezy.com/system/resources/previews/002/078/235/non_2x/illustration-of-coffee-machine-isolated-in-flat-style-vector.jpg',
+      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2k71pqgn9ttMfrOz1sp77EdLpGTtwNuu-7w&usqp=CAU',
     },
     {
       id: 6,
