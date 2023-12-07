@@ -3,7 +3,8 @@
 
 This is the final submission to the assignment given to me for the application to the "Latracal Solutions Private Limited". I have designed the application using the ReactJS and used the vanilla CSS and Javascript to add the functionality to the website. The web app consists of -> Product List, Products, Product description card and Header.
 
-Live website :- 
+Live website :- https://amratansh12.github.io/Product-site/
+
 
 ## Features
 
