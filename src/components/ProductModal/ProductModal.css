@@ -1,0 +1,49 @@
+.ProductModal{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.75);
+    height: 100%;
+    width: 100%;
+}
+
+.productModalCard{
+    padding: 20px;
+    border-radius: 20px;
+    width: 50%;
+}
+
+.productModalCard p{
+    margin: 15px 0;
+    border: 1px solid black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.productModalCard button{
+    padding: 10px;
+    width: 200px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 10px;
+    background-color: #4790D1;
+    color: white;
+    border: 2px solid black;
+}
+
+.productModalCard button:hover{
+    cursor: pointer;
+    background-color: #3f80b9;
+}
+
+.price{
+    display: inline;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    color: #4890D1;
+}
+

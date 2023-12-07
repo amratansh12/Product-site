@@ -1,0 +1,12 @@
+.Products{
+    display: grid;
+    grid-template-columns: 1fr 4fr;   
+    flex: 1; 
+    overflow: hidden;
+}
+
+@media screen and (max-width: 900px) {
+    .Products{
+        grid-template-columns: 1fr;
+    }
+}

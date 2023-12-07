@@ -1,0 +1,27 @@
+.productList{
+    height: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #262D40;
+    overflow-y: scroll;
+}
+
+.productListItems{
+    margin: 0 15px;
+}
+
+.productListItems li{
+    margin: 10px 0;
+}
+
+.productListItems li:hover{
+    text-decoration: underline;
+    color: #7B7E8F;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 900px) {
+    .productList{
+        display: none;
+    }
+}
